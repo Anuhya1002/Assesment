@@ -1,4 +1,4 @@
-import IsAnagram from './App.js.js'
+import IsAnagram from './App.js.js.js'
 
 function IsAnagram(s1, s2) {
     let len1 = a.length;

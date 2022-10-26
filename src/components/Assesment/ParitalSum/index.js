@@ -1,4 +1,4 @@
-import partialSums from './app.js'
+import partialSums from './app.js.js'
 
  function partialSums(input_array) {
     let s = 0;

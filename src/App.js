@@ -1,6 +1,6 @@
-import Anagrams from './components/Anagrams'
-import IsBalancedEnclosure from './components/components/BalancedEnclosure'
-import partialSums from './components/components/ParitalSum'
+import Anagrams from './components/Assesment/Anagrams'
+import IsBalancedEnclosure from './components/Assesment/BalancedEnclosure'
+import partialSums from './components/Assesment/ParitalSum'
 
 import './App.css'
 

@@ -1,4 +1,4 @@
-import IsBalancedEnclosure from './App.js.js'
+import IsBalancedEnclosure from './App.js.js.js'
 
 function IsBalancedEnclosure(s) {
     let length_1 = s.length
