@@ -1,4 +1,4 @@
-import IsBalancedEnclosure from './App.js.js.js'
+import IsBalancedEnclosure from './app.js'
 
 function IsBalancedEnclosure(s) {
     let length_1 = s.length
@@ -13,10 +13,10 @@ function IsBalancedEnclosure(s) {
     }
 
     if (each === item) {
-        console.log(true)
+        console.log("True")
     }
     else {
-        console.log(false)
+        console.log("False")
     }
 }
  IsBalancedEnclosure(s) 

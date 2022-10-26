@@ -1,9 +1,9 @@
-import partialSums from './app.js.js'
+import partialSums from './app.js'
 
  function partialSums(input_array) {
     let s = 0;
 
-    for (const x of iterable) {
+    for (const x of input_array) {
         s += x;
         return s;
     }
